@@ -44,7 +44,7 @@
       },
       title: {
         type: String,
-        default: 'Click to Expand',
+        default: 'Placeholder',
       },
     },
     data() {
