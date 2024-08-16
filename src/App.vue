@@ -1,15 +1,19 @@
 <template>
-  <GlassContainer><h1>securly.com.webcr.top</h1></GlassContainer>
+  <GlassContainer width="80%"><h1>goblinious's website</h1></GlassContainer><br>
+  <hr>
+  <GlassContainer width="30%">im gay</GlassContainer>
+  <ClickableGlass expandable=true title="sdadas">beeo </ClickableGlass>
   <GlassContainer><img alt="Vue logo" src="./assets/logo.png"><img alt="Vue logo" src="./assets/logo.png"></GlassContainer>
 </template>
 
 <script>
-import GlassContainer from './components/Box.vue'
-
+import ClickableGlass from './components/ClickableGlass.vue';
+import GlassContainer from './components/GlassContainer.vue'
 export default {
   name: 'App',
   components: {
-    GlassContainer
+    GlassContainer,
+    ClickableGlass
   }
 }
 </script>
@@ -35,7 +39,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #cfcfcf;
   margin-top: 60px;
 }
 </style>
