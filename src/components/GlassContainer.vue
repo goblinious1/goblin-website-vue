@@ -21,7 +21,7 @@ export default {
     },
     block: {
       type: Boolean,
-      default: false // Default to inline-block for fitting content
+      default: true // Default to inline-block for fitting content
     }
   },
   computed: {
@@ -29,7 +29,7 @@ export default {
       return {
         width: this.width,
         height: this.height,
-        display: this.block ? 'block' : 'inline-block' // Use inline-block by default
+        display: this.block ? 'inline-block' : 'inline' // Use inline-block by default
       };
     }
   }

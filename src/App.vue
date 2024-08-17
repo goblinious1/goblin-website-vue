@@ -1,9 +1,19 @@
 <template>
-  <GlassContainer width="80%"><h1>goblinious's website</h1></GlassContainer><br>
+  <GlassContainer width="80%"><h1>securly.com.webcr.top</h1>
+  now with 80% fewer colors</GlassContainer><br>
   <hr>
-  <GlassContainer width="30%">im gay</GlassContainer>
-  <ClickableGlass expandable=true title="sdadas">beeo </ClickableGlass>
-  <GlassContainer><img alt="Vue logo" src="./assets/logo.png"><img alt="Vue logo" src="./assets/logo.png"></GlassContainer>
+  <div class="content">
+    <GlassContainer width="fit-content">
+      <ClickableGlass expandable="true">hi</ClickableGlass>
+    </GlassContainer>
+    <GlassContainer block="false" width="350px" height="100%">
+      <h1>FAQ</h1>
+      <h3>Why "securly.com.webcr.top"?</h3>
+      when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
+      <h3>who are you</h3>
+      im batman >:)
+    </GlassContainer>
+  </div>
 </template>
 
 <script>
@@ -19,7 +29,11 @@ export default {
 </script>
 
 <style>
+.content {
+  display: flex;
+}
 body {
+  margin: 0px !important;
   image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
     image-rendering: -moz-crisp-edges;          /* Firefox                        */
     image-rendering: -o-crisp-edges;            /* Opera                          */
@@ -32,7 +46,6 @@ body {
   background-size: cover;
   height: 100vh;
   padding:0;
-  margin:0;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -40,6 +53,5 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #cfcfcf;
-  margin-top: 60px;
 }
 </style>

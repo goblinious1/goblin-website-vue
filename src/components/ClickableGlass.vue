@@ -36,7 +36,7 @@
       },
       block: {
         type: Boolean,
-        default: false,
+        default: true,
       },
       expandable: {
         type: Boolean,
@@ -66,15 +66,14 @@
   <style scoped>
   
   .frosted-glass-container {
-    /* No animation styles here */
-  }
-  
-  .glass-hovered {
     position: relative;
     overflow: hidden;
     cursor: pointer;
-    transform: scale(0.95);
-    transition: transform 0.3s ease;
+    transition: transform 0.5s ease;
+  }
+
+  .glass-hovered {
+    transform: scale(0.85);
   }
   
   .title {
