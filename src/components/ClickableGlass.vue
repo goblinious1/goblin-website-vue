@@ -10,7 +10,7 @@
         @click="toggleExpand"
         >
         <div class="title">{{ title }}</div>
-        <div class="content" :class="{ 'expanded': isExpanded, 'collapsed': !isExpanded }">
+        <div class="content" :class="{ 'expanded': isExpanded, 'collapsed': !isExpanded }" onclick="event.stopPropagation()">
           <slot />
         </div>
       </GlassContainer>
@@ -73,7 +73,7 @@
   }
 
   .glass-hovered {
-    transform: scale(0.85);
+    transform: scale(0.95);
   }
   
   .title {
