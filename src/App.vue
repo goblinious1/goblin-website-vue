@@ -4,23 +4,29 @@
   <hr>
   <div class="content">
     <GlassContainer id="dropdowns">
-      <ClickableGlass title="ONC EXPLOIT (the one you wanna click on)" expandable="true" width="90%">
-        1. Download the ONC file coresponding to your district <i>"but my district isnt here?"</i> refer to "add your district" under this section<br>
-        <ul>
-          <li><a onclick="event.stopPropagation()" href='data:text/plain,{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"{0e5b5fdc-559a-492d-b8a9-0db66d6436bf}","Metered":true,"Name":"tps501","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"tps501","Security":"None"},"NameServersConfigType":"Static","StaticIPConfig":{"NameServers":["167.86.91.171","66.94.105.229","213.109.163.210","92.60.37.102"]},"ProxySettings":{"Type":"Direct"}}]}' download="tps501.onc">TPS501</a></li>
-          <li>none of you have contacted me with new oncs yet :(</li>
-        </ul>
-        2. type chrome://network in a new tab and click on import onc file at the bottom.<br>
-        3. select the onc file you downloaded in step one from google drive or downloads<br>
-        4. hold refresh and hit the power button on your chromebook to quickly restart<br>
-        (OPTIONAL) 5. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
-
+      <ClickableGlass title="Cookie Corruption (The one you want to click on)" expandable="true" width="90%">
+        1. Go to <a href="https://rebrand.ly/" target="_blank" rel="noopener noreferrer">this page</a><br>
+        2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
+        xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
       <ClickableGlass title="add my district's onc" expandable="true" width="90%">
         1. go to chrome://network<br>
         2. click network state at the top<br>
         3. click the plus next to the districts wifi<br>
         4. copy all the text inside and send it to me at striped_dibble_0j@icloud.com WITH A **<b>PERSONAL</b>** EMAIL ADDRESS, NOT A SCHOOL EMAIL ADDRESS
+      </ClickableGlass>
+      <ClickableGlass title="ONC EXPLOIT (If javascript bookmarks are not availible)" expandable="true" width="90%">
+        1. Download the ONC file coresponding to your district <i>"but my district isnt here?"</i> refer to "add your district" under this section<br>
+        <ul>
+          <li><a onclick="event.stopPropagation()" href='data:text/plain,{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"08600533-0d09-4777-a4ec-c66aeab2c3c6","Metered":true,"Name":"tps-guest","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"tps-guest","Security":"None"},"NameServersConfigType":"Static","StaticIPConfig":{"NameServers":["167.86.91.171","66.94.105.229","213.109.163.210","92.60.37.102"]},"ProxySettings":{"Type":"Direct"}}]}' download="tps501.onc">TPS501</a></li>
+          <li>none of you have contacted me with new oncs yet :(</li>
+        </ul>
+        2. type chrome://network in a new tab and click on import onc file at the bottom.<br>
+        3. select the onc file you downloaded in step one from google drive or downloads<br>
+        4. hold refresh and hit the power button on your chromebook to quickly restart<br>
+        5. Remember to be on <em>--> *TPS-GUEST* <--</em><br>
+        (OPTIONAL) 6. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
+
       </ClickableGlass>
       <ClickableGlass title="contact" expandable="true" width="90%">
         email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
