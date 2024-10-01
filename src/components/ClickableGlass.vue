@@ -69,11 +69,11 @@
     position: relative;
     overflow: hidden;
     cursor: pointer;
-    transition: transform 0.5s ease;
+    transition: transform 0.3s ease-out;
   }
 
   .glass-hovered {
-    transform: scale(0.95);
+    transform: scale(0.97);
   }
   
   .title {
