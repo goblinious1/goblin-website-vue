@@ -10,7 +10,13 @@
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
       
-      <ClickableGlass title="ONC EXPLOIT (If javascript bookmarks are not availible)" expandable="true" width="90%">
+      
+      <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
+        email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
+      </ClickableGlass>
+      <ClickableGlass title="onc exploit (Legacy)" expandable="true" width="90%" style="display:none">
+        THIS EXPLOIT IS DEPRECATED. ONCS NO LONGER SEEM TO WORK FOR CONFIGURING NETWORKS :( You can still set your DNS to the nameservers for omadadns manually tho!
         1. Download the ONC file coresponding to your district's wifi <i>"but my district isnt here?"</i> refer to "add your district" under this section<br>
         <ClickableGlass title="add my district's onc" expandable="true" width="90%">
         1. go to chrome://network<br>
@@ -28,10 +34,6 @@
         5. Remember to be on <em>-- *TPS-GUEST* --</em><br>
         (OPTIONAL) 6. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
 
-      </ClickableGlass>
-      <ClickableGlass title="contact" expandable="true" width="90%">
-        email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
       </ClickableGlass>
     </GlassContainer>
     <GlassContainer block="false" width="350px" height="100%" id="faq">
