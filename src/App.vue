@@ -5,7 +5,7 @@
   <div class="content">
     <GlassContainer id="dropdowns">
       <ClickableGlass title="Cookie Corruption (The one you want to click on)" expandable="true" width="90%">
-        1. Go to <a href="https://rebrand.ly/" target="_blank" rel="noopener noreferrer">this page</a><br>
+        1. Go to <a href="https://rebrand.ly/deadcurly" target="_blank" rel="noopener noreferrer">this page</a><br>
         2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
