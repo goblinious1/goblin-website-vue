@@ -24,7 +24,7 @@
         2. type chrome://network in a new tab and click on import onc file at the bottom.<br>
         3. select the onc file you downloaded in step one from google drive or downloads<br>
         4. hold refresh and hit the power button on your chromebook to quickly restart<br>
-        5. Remember to be on <em>--> *TPS-GUEST* <--</em><br>
+        5. Remember to be on <em>-- *TPS-GUEST* --</em><br>
         (OPTIONAL) 6. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
 
       </ClickableGlass>
