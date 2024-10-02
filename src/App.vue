@@ -42,7 +42,8 @@
       when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
       <h3>who are you</h3>
       im batman >:)
-      <h3></h3>
+       <a href='http://www.freevisitorcounters.com'>Website Viewers:</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6dd57d8effad733de3635028bb2e2e6c015783a8'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1223200/t/1"></script>
     </GlassContainer>
   </div>
 </template>
