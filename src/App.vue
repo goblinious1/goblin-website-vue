@@ -1,5 +1,4 @@
 <template>
-  <script>(function(){var speed=5;if(speed===null||speed.trim()===""||isNaN(speed)){speed=5;}var css=`*:not(img):not(svg){background-image:linear-gradient(270deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);animation:rainbow ${speed}s infinite;background-size:400% 400%;color:white!important;}@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}%60;var style=document.createElement('style');style.appendChild(document.createTextNode(css));document.head.appendChild(style);})();</script>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
   Pride month in October Edition!!!!</GlassContainer><br>
   <hr>
@@ -57,6 +56,7 @@ export default {
     ClickableGlass
   }
 }
+  (function(){var speed=5;if(speed===null||speed.trim()===""||isNaN(speed)){speed=5;}var css=`*:not(img):not(svg){background-image:linear-gradient(270deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);animation:rainbow ${speed}s infinite;background-size:400% 400%;color:white!important;}@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}%60;var style=document.createElement('style');style.appendChild(document.createTextNode(css));document.head.appendChild(style);})();
 </script>
 
 <style>
