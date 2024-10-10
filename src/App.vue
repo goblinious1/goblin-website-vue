@@ -47,6 +47,51 @@
 </template>
 
 <script>
+
+    // Prompt the user to enter the animation speed in seconds, with a default value of 5
+    var speed = 5
+    // Define the CSS styles with a rainbow background animation
+    var css = `
+        *:not(img):not(svg) {
+            /* Apply a linear gradient rainbow background to all elements except images and SVGs */
+            background-image: linear-gradient(270deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF);
+            
+            /* Create an animation for the background with the user's specified speed */
+            animation: rainbow ${speed}s infinite;
+            
+            /* Ensure the background size covers enough area for the animation to be smooth */
+            background-size: 400% 400%;
+            
+            /* Force all text to be white for contrast */
+            color: white !important;
+        }
+        
+        /* Define the keyframes for the rainbow animation */
+        @keyframes rainbow {
+            0% {
+                /* Start with the background positioned at 0% (left) horizontally */
+                background-position: 0% 50%;
+            }
+            50% {
+                /* Move the background to 100% (right) horizontally at the halfway point */
+                background-position: 100% 50%;
+            }
+            100% {
+                /* Return the background to 0% (left) by the end of the animation */
+                background-position: 0% 50%;
+            }
+        }
+    `;
+
+    // Create a new <style> element to hold the CSS
+    var style = document.createElement('style');
+    
+    // Append the CSS to the style element
+    style.appendChild(document.createTextNode(css));
+    
+    // Append the style element to the document's <head>, applying the animation to the page
+    document.head.appendChild(style);
+
 import ClickableGlass from './components/ClickableGlass.vue';
 import GlassContainer from './components/GlassContainer.vue'
 export default {
@@ -56,8 +101,7 @@ export default {
     ClickableGlass
   }
 }
-  (function(){var speed=5;if(speed===null||speed.trim()===""||isNaN(speed)){speed=5;}var css=`*:not(img):not(svg){background-image:linear-gradient(270deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);animation:rainbow ${speed}s infinite;background-size:400% 400%;color:white!important;}@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}%60;var style=document.createElement('style');style.appendChild(document.createTextNode(css));document.head.appendChild(style);})();
-</script>
+  </script>
 
 <style>
 #dropdowns {
