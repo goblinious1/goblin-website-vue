@@ -38,13 +38,15 @@
     </GlassContainer>
     <GlassContainer block="false" width="350px" height="100%" id="faq">
       <h1>FAQ</h1>
-      <h3>Why "securly.com.webcr.top"?</h3>
-      when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
-      <h3>who are you</h3>
-      im batman >:3<be>
+      <h3>why were you celebrating pride month in October It made it really hard to read the website</h3>
+      why not?
       <h3>why does my exploit undo itself sometimes??</h3>
       seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit, if you want to do it faster you can bookmark the link and the javascript (remember to remove the x) and click one after the other!
-    </GlassContainer>
+    <h3>Why "securly.com.webcr.top"?</h3>
+      when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
+      <h3>who are you</h3>
+      im batman >:3
+      </GlassContainer>
   </div>
 </template>
 
