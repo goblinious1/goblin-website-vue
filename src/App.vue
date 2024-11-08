@@ -1,6 +1,6 @@
 <template>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
-  Pride month in October Edition!!!!</GlassContainer><br>
+  its no longer pride month in October D:</GlassContainer><br>
   <hr>
   <div class="content">
     <GlassContainer id="dropdowns">
@@ -41,56 +41,14 @@
       <h3>Why "securly.com.webcr.top"?</h3>
       when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
       <h3>who are you</h3>
-      im batman >:3<br>
+      im batman >:3<be>
+      <h3>why does my exploit undo itself sometimes??</h3>
+      seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit, if you want to do it faster you can bookmark the link and the javascript (remember to remove the x) and click one after the other!
     </GlassContainer>
   </div>
 </template>
 
 <script>
-
-    // Prompt the user to enter the animation speed in seconds, with a default value of 5
-    var speed = 5
-    // Define the CSS styles with a rainbow background animation
-    var css = `
-        *:not(img):not(svg) {
-            /* Apply a linear gradient rainbow background to all elements except images and SVGs */
-            background-image: linear-gradient(270deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF);
-            
-            /* Create an animation for the background with the user's specified speed */
-            animation: rainbow ${speed}s infinite;
-            
-            /* Ensure the background size covers enough area for the animation to be smooth */
-            background-size: 400% 400%;
-            
-            /* Force all text to be white for contrast */
-            color: white !important;
-        }
-        
-        /* Define the keyframes for the rainbow animation */
-        @keyframes rainbow {
-            0% {
-                /* Start with the background positioned at 0% (left) horizontally */
-                background-position: 0% 50%;
-            }
-            50% {
-                /* Move the background to 100% (right) horizontally at the halfway point */
-                background-position: 100% 50%;
-            }
-            100% {
-                /* Return the background to 0% (left) by the end of the animation */
-                background-position: 0% 50%;
-            }
-        }
-    `;
-
-    // Create a new <style> element to hold the CSS
-    var style = document.createElement('style');
-    
-    // Append the CSS to the style element
-    style.appendChild(document.createTextNode(css));
-    
-    // Append the style element to the document's <head>, applying the animation to the page
-    document.head.appendChild(style);
 
 import ClickableGlass from './components/ClickableGlass.vue';
 import GlassContainer from './components/GlassContainer.vue'
