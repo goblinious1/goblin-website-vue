@@ -9,8 +9,11 @@
         2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
-      
-      
+      <ClickableGlass title="DragTab (Easier, but manual and only one tab at a time)" expandable="true" width="90%">
+        1. search whatever website you want to go to or just find a link to it.
+        2. drag the link into any other tab and drop it
+        3. PROFIT!!!
+      </ClickableGlass>
       <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
         email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
@@ -82,15 +85,15 @@ h1 {
 h2 {}
 body {
   margin: 0px !important;
-  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-    image-rendering: -moz-crisp-edges;          /* Firefox                        */
-    image-rendering: -o-crisp-edges;            /* Opera                          */
-    image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-    image-rendering: pixelated;                 /* Universal support since 2021   */
-    image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-    -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+  /*image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+    /*image-rendering: -moz-crisp-edges;          /* Firefox                        */
+    /*image-rendering: -o-crisp-edges;            /* Opera                          */
+    /*image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+    /*image-rendering: pixelated;                 /* Universal support since 2021   */
+    /*image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+    /*-ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
 
-  background-image: url('https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif');
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c3c11a4e-961b-47ec-8f72-acebce4c4562/dgd7lna-ac16f51b-e974-4b8b-b354-66bb9888ad37.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzYzExYTRlLTk2MWItNDdlYy04ZjcyLWFjZWJjZTRjNDU2MlwvZGdkN2xuYS1hYzE2ZjUxYi1lOTc0LTRiOGItYjM1NC02NmJiOTg4OGFkMzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZktKEgi_XeABq25KljzOESRh6vMPb-MIJH0D9xufths');
   background-size: cover;
   height: 100vh;
   padding:0;
