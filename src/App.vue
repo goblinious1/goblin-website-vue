@@ -10,8 +10,8 @@
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
       <ClickableGlass title="DragTab (Easier, but manual and only one tab at a time)" expandable="true" width="90%">
-        1. search whatever website you want to go to or just find a link to it.
-        2. drag the link into any other tab and drop it
+        1. search whatever website you want to go to or just find a link to it.<br>
+        2. drag the link into any other tab and drop it<br>
         3. PROFIT!!!
       </ClickableGlass>
       <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
