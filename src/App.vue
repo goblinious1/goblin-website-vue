@@ -99,7 +99,7 @@ body {
   padding:0;
 }
 #app {
-   text-shadow: rgb(68, 68, 68) 0px 0 3px;
+   text-shadow: rgb(68, 68, 68) 0px 0 5px;
   -webkit-text-stroke-color: black;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
