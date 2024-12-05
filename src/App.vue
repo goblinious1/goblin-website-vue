@@ -1,6 +1,6 @@
 <template>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
-  its no longer pride month in October D:</GlassContainer><br>
+  Now about 800 times more readable!</GlassContainer><br>
   <hr>
   <div class="content">
     <GlassContainer id="dropdowns">
@@ -106,5 +106,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #cfcfcf;
+}
+a {
+  color: rgb(211, 164, 164)
 }
 </style>
