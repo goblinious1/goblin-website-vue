@@ -16,7 +16,20 @@
       </ClickableGlass>
       <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
         email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
+        also. i check these like once a year dont expect a fast response lol<br>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
+      </ClickableGlass>
+      <ClickableGlass title="Funny little js thingies!" expandable="true" width="90%">
+        to use these you gotta make a bookmark, edit it and paste the thing below as the url, then just click the bookmark to activate the thingy<be>
+        <ul>
+          This one toggles a mode where you can select, move, copy/paste and generally edit website like it is a textbox. for example you can edit text on any site, copy an element and paste it on another site and stuff like that
+          <li>javascript:document.body.contentEditable = !javascript:document.body.contentEditable</li>
+          This one crushes the website youre on, this is great if you hate having an easy experience using a website and want to create unnecessary hurdles to doing anything
+          <li>javascript:(function(){var all=document.getElementsByTagName("*");var depth=window.prompt("What depth should the crushing happen at? [leave empty for default] (how many nested elements does an element need to be considered ineligible for crushing)");function depthCheck(number,element){if(element.getAttribute("crushable")){return true;}if(element.children.length>0){if(number==0){return false;}for(var childIndex=0;childIndex<element.children.length;childIndex++){var childCheck=depthCheck(number-1,element.children[childIndex]);if(childCheck==false){return false;}}}element.setAttribute("crushable","");return true;}var accel=0.1;var intervalTime=500;var accelRate=1.05;var minInterval=10;for(var i=0,max=all.length;i<max;i++){if(!depthCheck(depth,all[i])){console.log("Failed Depth Check...");continue;}console.log("Depth Check Succeeded:");var element=all[i];var f=element.getBoundingClientRect();element.style.top=f["y"]+"px";element.style.left=f["x"]+"px";element.style.width=f["width"]+"px";element.style.height=f["height"]+"px";element.style.position="absolute !important";(function crushElement(l,el){var crushInterval=setInterval(function(){var speed=accel*3/400000+300;console.log("Crushing at speed:",speed);el.style.top=Math.max(el.style.top.slice(0,-2)-speed,0)+"px";el.style.left=Math.max(el.style.left.slice(0,-2)-speed,0)+"px";el.style.width=Math.max(el.style.width.slice(0,-2)-speed/20,0)+"px";el.style.height=Math.max(el.style.height.slice(0,-2)-speed/20,0)+"px";accel+=0.1;intervalTime=Math.max(intervalTime*accelRate,minInterval);if(el.style.width==="0px"&&el.style.height==="0px"){clearInterval(crushInterval);}},intervalTime);})(i,element);}})();</li>
+          if you like rainbows, youll LOVE rainbow mode!!!!
+          <li>javascript:(function(){var speed=prompt("Enter the animation speed in seconds (default is 5):","5");if(speed===null||speed.trim()===""||isNaN(speed)){speed=5;}var css=`*:not(img):not(svg){background-image:linear-gradient(270deg,#FF0000,#FF7F00,#FFFF00,#00FF00,#0000FF,#4B0082,#8B00FF);animation:rainbow ${speed}s infinite;background-size:400% 400%;color:white!important;}@keyframes rainbow{0%{background-position:0% 50%;}50%{background-position:100% 50%;}100%{background-position:0% 50%;}}%60;var style=document.createElement('style');style.appendChild(document.createTextNode(css));document.head.appendChild(style);})();</li>
+          
+          </ul>
       </ClickableGlass>
       <ClickableGlass title="onc exploit (Legacy)" expandable="true" width="90%">
         THIS EXPLOIT IS DEPRECATED. ONCS NO LONGER SEEM TO WORK FOR CONFIGURING NETWORKS :( You can still set your DNS to the nameservers for omadadns manually tho!
@@ -41,8 +54,6 @@
     </GlassContainer>
     <GlassContainer block="false" width="350px" height="100%" id="faq">
       <h1>FAQ</h1>
-      <h3>why were you celebrating pride month in October It made it really hard to read the website</h3>
-      why not?
       <h3>why does my exploit undo itself sometimes??</h3>
       seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit, if you want to do it faster you can bookmark the link and the javascript (remember to remove the x) and click one after the other!
     <h3>Why "securly.com.webcr.top"?</h3>
