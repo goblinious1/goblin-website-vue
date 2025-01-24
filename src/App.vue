@@ -9,9 +9,9 @@
         2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
       </ClickableGlass>
-      <ClickableGlass title="DragTab (Easier, but manual and only one tab at a time)" expandable="true" width="90%">
-        1. search whatever website you want to go to or just find a link to it.<br>
-        2. drag the link into any other tab and drop it<br>
+      <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
+        1. create a bookmark to a link that's blocked (like this website) by just editing any bookmark and changing the URL to something<br>
+        2. on a non-blocked page, drag the bookmark into the center of the screen<br>
         3. PROFIT!!!
       </ClickableGlass>
       <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
@@ -20,7 +20,7 @@
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
       </ClickableGlass>
       <ClickableGlass title="Funny little js thingies!" expandable="true" width="90%">
-        to use these you gotta make a bookmark, edit it and paste the thing below as the url, then just click the bookmark to activate the thingy<be>
+        to use these you gotta make a bookmark, edit it and paste the thing below as the url, then just click the bookmark to activate the thingy<br>
         <ul>
           This one toggles a mode where you can select, move, copy/paste and generally edit website like it is a textbox. for example you can edit text on any site, copy an element and paste it on another site and stuff like that
           <li>javascript:document.body.contentEditable = !javascript:document.body.contentEditable</li>
