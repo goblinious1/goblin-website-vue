@@ -13,7 +13,7 @@
         1. Go to <a href="https://rebrand.ly/deadcurly" target="_blank" rel="noopener noreferrer">this page</a><br>
         2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
         xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
-        <b>YOU CAN ALSO ADD THIS JAVASCRIPT AS A BOOKMARK AND USE IT ON THE "This site has been blocked" PAGE OF SECURLY. <be>
+        <b>YOU CAN ALSO ADD THIS JAVASCRIPT AS A BOOKMARK AND USE IT ON THE "This site has been blocked" PAGE OF SECURLY. <br>
           more info in the js thingies section</b>
       </ClickableGlass>
      
