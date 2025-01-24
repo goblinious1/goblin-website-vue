@@ -1,24 +1,23 @@
 <template>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
-  Now about 800 times more readable!</GlassContainer><br>
+  Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
   <hr>
   <div class="content">
-    <GlassContainer id="dropdowns">
-      <ClickableGlass title="Cookie Corruption (The one you want to click on)" expandable="true" width="90%">
-        1. Go to <a href="https://rebrand.ly/deadcurly" target="_blank" rel="noopener noreferrer">this page</a><br>
-        2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
-        xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
-      </ClickableGlass>
-      <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
+     <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
         1. create a bookmark to a link that's blocked (like this website) by just editing any bookmark and changing the URL to something<br>
         2. on a non-blocked page, drag the bookmark into the center of the screen<br>
         3. PROFIT!!!
       </ClickableGlass>
-      <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
-        email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
-        also. i check these like once a year dont expect a fast response lol<br>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
+    <GlassContainer id="dropdowns">
+      <ClickableGlass title="Cookie Corruption (semi-persistand)" expandable="true" width="90%">
+        1. Go to <a href="https://rebrand.ly/deadcurly" target="_blank" rel="noopener noreferrer">this page</a><br>
+        2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
+        xjavascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'
+        <b>YOU CAN ALSO ADD THIS JAVASCRIPT AS A BOOKMARK AND USE IT ON THE "This site has been blocked" PAGE OF SECURLY. <be>
+          more info in the js thingies section</b>
       </ClickableGlass>
+     
+     
       <ClickableGlass title="Funny little js thingies!" expandable="true" width="90%">
         to use these you gotta make a bookmark, edit it and paste the thing below as the url, then just click the bookmark to activate the thingy<br>
         <ul>
@@ -31,7 +30,7 @@
           
           </ul>
       </ClickableGlass>
-      <ClickableGlass title="onc exploit (Legacy)" expandable="true" width="90%">
+      <ClickableGlass title="onc exploit (LEGACY)" expandable="true" width="90%">
         THIS EXPLOIT IS DEPRECATED. ONCS NO LONGER SEEM TO WORK FOR CONFIGURING NETWORKS :( You can still set your DNS to the nameservers for omadadns manually tho!
         1. Download the ONC file coresponding to your district's wifi <i>"but my district isnt here?"</i> refer to "add your district" under this section<br>
         <ClickableGlass title="add my district's onc" expandable="true" width="90%">
@@ -51,13 +50,18 @@
         (OPTIONAL) 6. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
 
       </ClickableGlass>
+       <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
+        email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
+        also. i check these like once a year dont expect a fast response lol<br>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
+      </ClickableGlass>
     </GlassContainer>
     <GlassContainer block="false" width="350px" height="100%" id="faq">
       <h1>FAQ</h1>
       <h3>why does my exploit undo itself sometimes??</h3>
       seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit, if you want to do it faster you can bookmark the link and the javascript (remember to remove the x) and click one after the other!
     <h3>Why "securly.com.webcr.top"?</h3>
-      when securly checks a domain, it sends a request to securly.com, and to prevent it from checking that request causing an infinite loop, any domain with securly.com inside it will be unblockable!
+      back in my day having securly.com in your domain name unblockable, that is no longer the case, its now just an artifact of an earlier time
       <h3>who are you</h3>
       im batman >:3
       <h3><img src="https://i.ibb.co/mtqRdcc/rude-paul.jpg" width="10%">?</h3>
