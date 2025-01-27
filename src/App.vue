@@ -3,12 +3,13 @@
   Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
   <hr>
   <div class="content">
-     <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
-        1. create a bookmark to a link that's blocked (like this website) by just editing any bookmark and changing the URL to something<br>
+     
+    <GlassContainer id="dropdowns">
+      <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
+        1. create a bookmark to a link that's blocked (like <a href="securly.com.webcr.top">securly.com.webcr.top</a>) by just editing any bookmark and changing the URL to something<br>
         2. on a non-blocked page, drag the bookmark into the center of the screen<br>
         3. PROFIT!!!
       </ClickableGlass>
-    <GlassContainer id="dropdowns">
       <ClickableGlass title="Cookie Corruption (semi-persistand)" expandable="true" width="90%">
         1. Go to <a href="https://rebrand.ly/deadcurly" target="_blank" rel="noopener noreferrer">this page</a><br>
         2. Paste the following text into the url bar of that page, remove the X and push enter:<br>
