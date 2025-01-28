@@ -91,27 +91,29 @@ code {
 
 pre {
   display: block;
-  white-space: pre;
-  overflow-x: auto;
-  max-width: 100%; /* Ensure it doesn't expand beyond the container */
-  word-break: break-word; /* Break overly long words if necessary */
+  white-space: pre; /* Prevent wrapping */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  max-width: 100%; /* Restrict to container width */
+  word-wrap: break-word; /* Optional: Break long words if necessary */
   padding: 8px;
-  background: #f5f5f5; /* Optional: Add background for better readability */
+  background: #f5f5f5; /* Optional: Add background for readability */
   border-radius: 4px;
+  box-sizing: border-box; /* Ensure padding is included in width */
+}
+
+#dropdowns {
+  max-width: 100%;
+  overflow-x: auto; /* Allow scrolling for dropdowns container */
+  flex: 1;
+  box-sizing: border-box;
+  margin: 25px;
 }
   
 ul {
   text-align: left;
 }
   
-#dropdowns {
-  max-width:100%;
-  flex:1;
-  box-sizing: border-box;
-  overflow-x: hidden;
-  margin: 25px;
-  
-}
+
 
 #faq {
   box-sizing: border-box;
