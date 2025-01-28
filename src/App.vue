@@ -2,7 +2,8 @@
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
   Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
   <hr>
-  <div class="content">
+  <div class="flex">
+  <div class="content" width= >
      
     <GlassContainer id="dropdowns">
       <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
@@ -68,6 +69,7 @@
       <h3><img src="https://i.ibb.co/mtqRdcc/rude-paul.jpg" width="10%">?</h3>
       Yes.
       </GlassContainer>
+  </div>
   </div>
 </template>
 
