@@ -99,7 +99,6 @@ ul {
 }
   
 #dropdowns {
-  flex: 1;
   overflow: hidden;
   margin: 25px;
 }
@@ -113,8 +112,8 @@ ul {
 }
   
 .content {
-  flex: 1;
-  display: flex;
+  display: grid;
+	grid-template-columns: 1fr 200px;
 }
 h1 {
   font-size: 50px
