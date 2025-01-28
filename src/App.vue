@@ -3,7 +3,7 @@
   Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
   <hr>
   <div class="flex">
-  <div class="content" width= >
+  <div class="content">
      
     <GlassContainer id="dropdowns">
       <ClickableGlass title="DragMark (USE TO UNBLOCK THIS WEBSITE)" expandable="true" width="90%">
