@@ -85,6 +85,15 @@ export default {
   </script>
 
 <style>
+code {
+  position: relative;
+}
+
+pre {
+  position: absolute;
+  overflow: scroll
+}
+  
 ul {
   text-align: left;
 }
