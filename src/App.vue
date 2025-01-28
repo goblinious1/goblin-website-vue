@@ -90,7 +90,7 @@ code {
 }
 
 pre {
-  overflow-x: scroll
+  overflow-x: scroll;
   width: 90%;
 }
   
