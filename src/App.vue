@@ -99,12 +99,15 @@ ul {
 }
   
 #dropdowns {
+  flex:1;
   box-sizing: border-box;
   overflow-x: hidden;
   margin: 25px;
+  
 }
 
 #faq {
+  box-sizing: border-box;
   margin: 25px;
 }
 
@@ -113,8 +116,7 @@ ul {
 }
   
 .content {
-  display: grid;
-  grid-template-columns: 1fr 390px;
+  display: flex;
 }
 h1 {
   font-size: 50px
