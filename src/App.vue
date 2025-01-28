@@ -113,7 +113,7 @@ ul {
   
 .content {
   display: grid;
-	grid-template-columns: 1fr 200px;
+	grid-template-columns: 1fr 350px;
 }
 h1 {
   font-size: 50px
