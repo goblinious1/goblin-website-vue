@@ -121,6 +121,7 @@ h1 {
 }
 h2 {}
 body {
+  overflow-x: hidden;
   margin: 0px !important;
   /*image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
     /*image-rendering: -moz-crisp-edges;          /* Firefox                        */
