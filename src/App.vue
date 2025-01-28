@@ -69,7 +69,6 @@
       Yes.
       </GlassContainer>
   </div>
-  </div>
 </template>
 
 <script>
