@@ -90,24 +90,33 @@ code {
 }
 
 pre {
-  display: block;
-  white-space: pre; /* Prevent wrapping */
+  display: block; /* Ensure it remains a block-level element */
+  white-space: pre; /* Preserve formatting but no wrapping */
+  max-width: 100%; /* Prevent it from exceeding its parent width */
   overflow-x: auto; /* Enable horizontal scrolling */
-  max-width: 100%; /* Restrict to container width */
-  word-wrap: break-word; /* Optional: Break long words if necessary */
+  overflow-y: hidden; /* Prevent vertical scrolling for single-line overflow */
   padding: 8px;
-  background: #f5f5f5; /* Optional: Add background for readability */
+  background: #f5f5f5; /* Light gray background for readability */
   border-radius: 4px;
-  box-sizing: border-box; /* Ensure padding is included in width */
+  box-sizing: border-box; /* Include padding in width calculations */
 }
 
 #dropdowns {
-  max-width: 100%;
-  overflow-x: auto; /* Allow scrolling for dropdowns container */
-  flex: 1;
+  display: flex; /* Flex layout to organize dropdowns properly */
+  flex-direction: column; /* Ensure items stack vertically */
+  max-width: 100%; /* Prevent the dropdown container from expanding */
+  overflow-x: auto; /* Allow horizontal scrolling for dropdowns */
   box-sizing: border-box;
   margin: 25px;
 }
+
+.content {
+  display: flex; /* Ensure the content stays properly aligned */
+  flex-wrap: wrap; /* Allow content to wrap and avoid overflow */
+  max-width: 100%; /* Prevent overflow for the whole content area */
+  overflow-x: hidden; /* Hide any unexpected horizontal overflow */
+}
+
   
 ul {
   text-align: left;
@@ -124,9 +133,6 @@ ul {
   display: flex
 }
   
-.content {
-  display: flex;
-}
 h1 {
   font-size: 50px
 }
