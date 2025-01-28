@@ -2,7 +2,6 @@
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
   Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
   <hr>
-  <div class="flex">
   <div class="content">
      
     <GlassContainer id="dropdowns">
@@ -101,7 +100,8 @@ ul {
 }
   
 #dropdowns {
-  flex-grow: 100;
+  flex: 1;
+  overflow: hidden;
   margin: 25px;
 }
 
