@@ -99,7 +99,8 @@ ul {
 }
   
 #dropdowns {
-  overflow: hidden;
+  box-sizing: border-box
+  overflow-x: hidden;
   margin: 25px;
 }
 
@@ -113,7 +114,7 @@ ul {
   
 .content {
   display: grid;
-	grid-template-columns: 1fr 390px;
+  grid-template-columns: 1fr 390px;
 }
 h1 {
   font-size: 50px
