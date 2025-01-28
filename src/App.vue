@@ -90,8 +90,14 @@ code {
 }
 
 pre {
-  overflow-x: scroll;
-  width: 90%;
+  display: block;
+  white-space: pre;
+  overflow-x: auto;
+  max-width: 100%; /* Ensure it doesn't expand beyond the container */
+  word-break: break-word; /* Break overly long words if necessary */
+  padding: 8px;
+  background: #f5f5f5; /* Optional: Add background for better readability */
+  border-radius: 4px;
 }
   
 ul {
