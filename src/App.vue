@@ -109,7 +109,12 @@ ul {
   margin: 25px;
 }
 
+.flex {
+  display: flex
+}
+  
 .content {
+  flex: 1;
   display: flex;
 }
 h1 {
