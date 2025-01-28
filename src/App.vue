@@ -105,6 +105,7 @@ ul {
 }
   
 #dropdowns {
+  max-width:100%;
   flex:1;
   box-sizing: border-box;
   overflow-x: hidden;
