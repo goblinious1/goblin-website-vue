@@ -99,7 +99,7 @@ ul {
 }
   
 #dropdowns {
-  box-sizing: border-box
+  box-sizing: border-box;
   overflow-x: hidden;
   margin: 25px;
 }
