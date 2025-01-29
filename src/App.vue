@@ -1,6 +1,7 @@
 <template>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
-  Now blocked D: use the dragmark exploit on your friends computers to unblock it for them</GlassContainer><br>
+  currently being worked on, forgive me if things are broken<br>
+  also, I'm reading my emails for the first time in a while, send me things!</GlassContainer><br>
   <hr>
   <div class="content" width="100%">
      
