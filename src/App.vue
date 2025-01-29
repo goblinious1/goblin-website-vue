@@ -91,7 +91,7 @@ export default {
 <style>
 
 pre {
-  font-family: monospace
+  font-family: monospace;
   display: block;
   white-space: pre;
   overflow-x: auto;
