@@ -52,8 +52,8 @@
         (OPTIONAL) 6. draw bill cipher to let him inside our dimension and send a picture to me through the contact section below
       
       </ClickableGlass>
-      <ClickableGlass title="GoGuardian, Lightspeed, and others">
-        work in progress... come back later when the time is right
+      <ClickableGlass title="GoGuardian, Lightspeed, and others" expandable="true" width="90%">
+        work in progress... come back later when the time is right, in the meantime try dragtab, if it works, email me and let me know!
       </ClickableGlass>
        <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
         email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
