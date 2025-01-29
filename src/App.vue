@@ -16,7 +16,8 @@
         1. create a bookmark for any page, and right click on it and select edit.<br>
         2. paste the text below into the "url" box<br>
         javascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'<br>
-        3. when you are on the securly blocked screen, click the bookmark
+        3. when you are on the securly blocked screen, click the bookmark<br>
+        If it does nothing and websites are still blocked, your school has javascript URLs disabled. thats too bad :/ let me know at the contact section so i can get a sense of how many people this effects.
         
       </ClickableGlass>
      
@@ -24,9 +25,6 @@
       
       <ClickableGlass title="omadadns (all filter extensions)" expandable="true" width="90%">
         https://docs.titaniumnetwork.org/kajigs/omadadns/
-      </ClickableGlass>
-      <ClickableGlass title="GoGuardian, Lightspeed, and others" expandable="true" width="90%">
-        try dragtab, if it works let me know at the contact section
       </ClickableGlass>
       <ClickableGlass title="Funny little js thingies!" expandable="true" width="90%">
         to use these you gotta make a bookmark, edit it and paste the thing below as the url, then just click the bookmark to activate the thingy<br>
@@ -42,20 +40,26 @@
       </ClickableGlass>
        <ClickableGlass title="contact me! right here! do it here! contact mE HERE THORUGH HERE" expandable="true" width="90%">
         email (CONTACT ONLY FROM PERSONAL EMAIL AND NOT SCHOOL EMAIL) - striped_dibble_0j@icloud.com<br>
-        also. i check these like once a year dont expect a fast response lol<br>
+        might be a little till I can respond this email is filled with random junk<br>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLqEHJD8R4O1glfQbgEHi2gXgLwmu2lgD2R0zSn6Lbm8M4-Q/viewform?usp=sf_link">form for contacting if personal email is not availible</a>
       </ClickableGlass>
     </GlassContainer>
     <GlassContainer block="false" width="350px" height="100%" id="faq">
       <h1>FAQ</h1>
-      <h3>why does my exploit undo itself sometimes??</h3>
-      seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit, if you want to do it faster you can bookmark the link and the javascript (remember to remove the x) and click one after the other!
+      <h3>none of these work???!?!?</h3>
+      if truely none of them work for you, contact me through the contact form/email and let me know with details of what extension you have and what you tried.
+      <h3>why do I have to keep doing cookie corruption</h3>
+      seemingly, the cookies of securly expire after a bit and so youll have to redo the exploit thats why i have you bookmark it now you just gotta click the bookmark to redo it!
     <h3>Why "securly.com.webcr.top"?</h3>
       back in my day having securly.com in your domain name unblockable, that is no longer the case, its now just an artifact of an earlier time
+     <h3>working on anything?</h3>
+      mayb... chrome://chrome-signin
       <h3>who are you</h3>
       im batman >:3
       <h3><img src="https://i.ibb.co/mtqRdcc/rude-paul.jpg" width="10%">?</h3>
       Yes.
+      <h3>make your exploit better please you dumb fool</h3>
+      first of all, rude. secondly, contact me and ill help you out, ill never fix something i dont know is a problem
       </GlassContainer>
   </div>
 </template>
