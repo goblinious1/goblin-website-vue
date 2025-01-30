@@ -62,7 +62,7 @@
       first of all, rude. secondly, contact me and ill help you out, ill never fix something i dont know is a problem
       </GlassContainer>
   </div>
-  <div id="sfcpasd3t69ty2qpden3u33xem8ql8d8dnb"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pasd3t69ty2qpden3u33xem8ql8d8dnb&down=async" async></script><br><a href="https://www.freecounterstat.com">free hit counter</a><noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pasd3t69ty2qpden3u33xem8ql8d8dnb" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
+  <div id="sfckh4buumncxpqza4twz3zezubdtakx1yl"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=kh4buumncxpqza4twz3zezubdtakx1yl&down=async" async></script><br><a href="https://www.freecounterstat.com">website hit counter</a><noscript><a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=kh4buumncxpqza4twz3zezubdtakx1yl" border="0" title="website hit counter" alt="website hit counter"></a></noscript>
 </template>
 
 <script>
