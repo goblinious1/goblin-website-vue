@@ -1,4 +1,5 @@
 <template>
+  <div id="sfcpasd3t69ty2qpden3u33xem8ql8d8dnb"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pasd3t69ty2qpden3u33xem8ql8d8dnb&down=async" async></script><br><a href="https://www.freecounterstat.com">free hit counter</a><noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pasd3t69ty2qpden3u33xem8ql8d8dnb" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
   currently being worked on, forgive me if things are broken<br>
   also, I'm reading my emails for the first time in a while, send me things!</GlassContainer><br>
