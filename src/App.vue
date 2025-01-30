@@ -15,7 +15,7 @@
       <ClickableGlass title="Cookie Corruption (securly)" expandable="true" width="90%">
         1. create a bookmark for any page, and right click on it and select edit.<br>
         2. paste the text below into the "url" box<br>
-        javascript:document.cookie='crextn_clear_cache_at=2024=01-21T05:59:59+00:00;'<br>
+        <input type="text" readonly value="javascript:document.cookie=&#039;crextn_clear_cache_at=:;expires=Fri, 31 Dec 9999 23:59:59 GMT;path=/&#039;;"><br>
         3. when you are on the securly blocked screen, click the bookmark<br>
         If it does nothing and websites are still blocked, your school has javascript URLs disabled. thats too bad :/ let me know at the contact section so i can get a sense of how many people this effects.
         
@@ -58,8 +58,6 @@
       im batman >:3
       <h3><img src="https://i.ibb.co/mtqRdcc/rude-paul.jpg" width="10%">?</h3>
       Yes.
-      <h3>make your exploit better please you dumb fool</h3>
-      first of all, rude. secondly, contact me and ill help you out, ill never fix something i dont know is a problem
       </GlassContainer>
   </div>
   <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=kh4buumncxpqza4twz3zezubdtakx1yl" border="0" title="website hit counter" alt="website hit counter"></a>
