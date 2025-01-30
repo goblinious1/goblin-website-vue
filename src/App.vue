@@ -60,9 +60,9 @@
       Yes.
       <h3>make your exploit better please you dumb fool</h3>
       first of all, rude. secondly, contact me and ill help you out, ill never fix something i dont know is a problem
-      <div id="sfcpasd3t69ty2qpden3u33xem8ql8d8dnb"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pasd3t69ty2qpden3u33xem8ql8d8dnb&down=async" async></script><br><a href="https://www.freecounterstat.com">free hit counter</a><noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pasd3t69ty2qpden3u33xem8ql8d8dnb" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
       </GlassContainer>
   </div>
+  <div id="sfcpasd3t69ty2qpden3u33xem8ql8d8dnb"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=pasd3t69ty2qpden3u33xem8ql8d8dnb&down=async" async></script><br><a href="https://www.freecounterstat.com">free hit counter</a><noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=pasd3t69ty2qpden3u33xem8ql8d8dnb" border="0" title="free hit counter" alt="free hit counter"></a></noscript>
 </template>
 
 <script>
