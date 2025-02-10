@@ -61,7 +61,7 @@
       </GlassContainer>
   </div>
   <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=kh4buumncxpqza4twz3zezubdtakx1yl" border="0" title="website hit counter" alt="website hit counter"></a>
-hi this is a message !!!!!
+
 </template>
 
 <script>
