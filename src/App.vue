@@ -6,7 +6,7 @@
   <div class="content" width="100%">
      
     <GlassContainer id="dropdowns">
-      <ClickableGlass title="DragMark (use to unblock this website on your computer :3)" expandable="true" width="90%">
+      <ClickableGlass title="DragMark (if javascript is blocked)" expandable="true" width="90%">
         1. create a bookmark to a link that's blocked (like <a href="securly.com.webcr.top">securly.com.webcr.top</a>) by just editing any bookmark and changing the URL to something<br>
         2. on a non-blocked page, drag the bookmark into the center of the screen<br>
         3. PROFIT!!!<br>
