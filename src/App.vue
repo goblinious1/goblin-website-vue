@@ -1,10 +1,11 @@
 <template>
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
-  currently being worked on, forgive me if things are broken<br>
-  also, I'm reading my emails for the first time in a while, send me things!</GlassContainer><br>
+  weeblewobble</GlassContainer><br>
   <hr>
   <div class="content" width="100%">
-     
+    <GlassContainer><h1>THIS WEBSITE IS BEING REMOVED SOON!!!!!!!!!!!!!!!!!!!</h1><br>
+    im moving all of this to a google document because thats unblockable, plus its easier to make on a school computer LMAO,</GlassContainer>
+    <ClickableGlass><a href="https://docs.google.com/document/d/13rMCJmnkg_RiUcp2TgARzXWF9ILp70TOW-k0C6tnfOQ/">Go to the Document</a></ClickableGlass>
     <GlassContainer id="dropdowns">
       <ClickableGlass title="DragMark (if javascript is blocked)" expandable="true" width="90%">
         1. create a bookmark to a link that's blocked (like <a href="securly.com.webcr.top">securly.com.webcr.top</a>) by just editing any bookmark and changing the URL to something<br>
