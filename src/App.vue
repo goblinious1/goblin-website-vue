@@ -2,10 +2,11 @@
   <GlassContainer width="40%"><h1>securly.com.webcr.top</h1>
   weeblewobble</GlassContainer><br>
   <hr>
-  <div class="content" width="100%">
-    <GlassContainer><h1>THIS WEBSITE IS BEING REMOVED SOON!!!!!!!!!!!!!!!!!!!</h1><br>
+  <GlassContainer><h1>THIS WEBSITE IS BEING REMOVED SOON!!!!!!!!!!!!!!!!!!!</h1><br>
     im moving all of this to a google document because thats unblockable, plus its easier to make on a school computer LMAO,<br>
-    <ClickableGlass><a href="https://docs.google.com/document/d/13rMCJmnkg_RiUcp2TgARzXWF9ILp70TOW-k0C6tnfOQ/">Go to the Document</a></ClickableGlass></GlassContainer><br>
+    <ClickableGlass><h1><a href="https://docs.google.com/document/d/13rMCJmnkg_RiUcp2TgARzXWF9ILp70TOW-k0C6tnfOQ/">Go to the Document</a></h1></ClickableGlass></GlassContainer><br>
+    
+  <div class="content" width="100%">
     
     <GlassContainer id="dropdowns">
       <ClickableGlass title="DragMark (if javascript is blocked)" expandable="true" width="90%">
